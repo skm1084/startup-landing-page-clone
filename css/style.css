@@ -1,0 +1,22 @@
+body {
+    background-color: LightGray;
+}
+div {
+    /*border: 1px solid Chocolate;*/
+}
+.top-navigation {
+	background-color: #ffffff;
+	position: fixed;
+	width: 100%;
+}
+.top-navigation .logo {
+    height: 4.375rem;
+ }
+.top-navigation .links {
+	float:right;
+	margin-top: 1.7em;
+}
+.top-navigation .links li{
+	display: inline-block;
+	margin-left: 25px;
+}
