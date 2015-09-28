@@ -31,6 +31,7 @@ h2 {
 }
 ul {
     list-style: none;
+    padding-left: 0;
 }
 /* Navigation Section */
 .top-navigation {
@@ -164,7 +165,7 @@ i {
 .social .icons > li:hover {
     cursor: pointer;
 }
-.social .twitter {
+.social .fa fa-twitter {
     color: #55acee;
 }
 .social .facebook {
